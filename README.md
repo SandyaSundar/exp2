@@ -28,8 +28,10 @@ Developed by: Sandya S     Register Number: 25017264
 **OUTPUT:**
 
 **RTL:**
+![alt text](<Screenshot 2025-11-21 195441.png>)
 
 **TIMING DIAGRAM:**
+![alt text](<Screenshot 2025-11-21 195540.png>)
 
 **RESULT:**
 Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
