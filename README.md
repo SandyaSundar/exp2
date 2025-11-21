@@ -23,6 +23,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **PROGRAM:**
 
+![alt text](<Screenshot 2025-11-21 212215.png>)
+
+
 Developed by: Sandya S     Register Number: 25017264
 
 **OUTPUT:**
